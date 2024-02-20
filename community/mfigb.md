@@ -1,5 +1,6 @@
 # mfigb
-Olá! Sou mfigb e estou iniciando o aprendizado no Git.
+Olá! Me chamo Mônica Figueirôa e faço graduação em Análise de Sistemas. Na Diome estou aprendendo algumas linguagens de programação para aperfeiçoar meu aprendizado.
+Possuo graduação em Licenciatura em Físíca e Pós graduação em Redes Convergentes (Telecomunicações + informática)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%B4nica-f-aba8a234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
