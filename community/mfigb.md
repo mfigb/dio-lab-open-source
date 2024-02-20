@@ -1,5 +1,6 @@
 # mfigb
-Olá! Me chamo Mônica Figueirôa e faço graduação em Análise de Sistemas. Na Diome estou aprendendo algumas linguagens de programação para aperfeiçoar meu aprendizado.
+Olá! Me chamo Mônica Figueirôa e faço graduação em Análise de Sistemas. 
+Na Diome estou aprendendo algumas linguagens de programação para aperfeiçoar meu aprendizado.
 Possuo graduação em Licenciatura em Físíca e Pós graduação em Redes Convergentes (Telecomunicações + informática)
 
 ## Conecte-se comigo
